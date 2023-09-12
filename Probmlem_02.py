@@ -1,5 +1,5 @@
 vij=dict()
-for i in range(27):
+for i in range(26):
     alphabet=input("enter alphabet:")
     vij[alphabet]=ord(alphabet)
 print(vij)
